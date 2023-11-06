@@ -1,2 +1,2 @@
 # PreCourse-Henry
-Este repositorio tiene que ver con el curso de Henry Talk
+Este repositorio corresponde al curso Full Satck en la tecnologia javascript de Henry Talk
